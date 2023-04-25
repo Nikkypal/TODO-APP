@@ -1,0 +1,19 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "Express Ajax HTML CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "main"
+  },
+  "author": "NIKHIL PAL",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "nodemon": "^2.0.22"
+  }
+}
